@@ -1,0 +1,83 @@
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	text-align: center;
+	color: white;
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+}
+.base{
+	border-radius: 1em;
+	background-color: #1C1C1C;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	padding-bottom: 0.5em;
+	padding-top: 0.5em;
+	overflow: hidden;
+
+
+}
+.container{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content:space-around;
+	width: 100%;
+}
+img{
+	width: 100%;
+	border-radius: 1em;
+}
+.componente{
+	border-radius: 1em;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	padding-bottom: 0.5em;
+	padding-top: 0.5em;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	margin: 0.25em;
+	width: 15em;
+	
+}
+p{
+	font-size: 1em;
+}
+body{
+	background-color: white;
+}
+#color1{
+	background-color: rgb(0%, 44%, 39%);
+	color: #FFFFFF;
+}
+#color2{
+	background-color: rgb(1%, 84%, 62%);
+	color: #FFFFFF;
+}
+#color3{
+	background-color: rgb(132, 121, 184);
+	color: #FFFFFF;
+}
+#color4{
+	background-color: rgb(41%, 9%, 1%);
+	color: #FFFFFF;
+}
+#color5{
+	background-color: rgb(10%, 15%, 31%);
+	color: #FFFFFF;
+}
+#color6{
+	background-color: rgb(66%, 14%, 47%);
+	color: #FFFFFF;
+}
+#color7{
+	background-color: rgb(60%, 39%, 46%);
+	color: #FFFFFF;
+}
+#color8{
+	background-color: rgb(145, 153, 99);
+	color: #FFFFFF;
+}
